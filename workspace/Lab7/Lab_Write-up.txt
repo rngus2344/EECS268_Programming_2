@@ -1,0 +1,11 @@
+1. Before starting implementation, design your code base. Design a class that will be in charge of reading the maze file.
+- Make a list of methods and member variables you think it should have
+: MazeWalker file will read the maze file.
+
+2. Design a class that, given a valid maze, will traverse it.
+- Make a list of member variables and method you think it should have.
+
+3. Discuss how you plan to detect the need for backtracking should you reach a deadend in the maze. 
+What will variables/objects/arrays will need to be updated when you backtrack?
+
+4. Discuss how you plan to detect and handle finding an exit or running out of places to traverse
